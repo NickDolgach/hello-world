@@ -2,4 +2,4 @@
 Just another repository
 
 Nick here, I like JavaScript.
-I beleive MJ is the GOAT.
+I believe MJ is the GOAT.
